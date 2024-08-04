@@ -1,0 +1,6 @@
+-   npm i prisma -D
+-   npx prisma init
+-   npx prisma migrate dev --name init
+-   nest g module database
+-   nest g service database
+-   nest g resource employees
